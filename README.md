@@ -1,3 +1,20 @@
+# 🎛 Synth Maze
+
+Welcome to **Synth Maze** — a complete diagram + guide for my studio setup.
+
+---
+
+## Master Diagram
+(ASCII diagram we drew earlier with MIDI + Audio combined)
+
+---
+
+## Documentation
+- [🎹 MIDI Routing](docs/diagrams/midi.md)
+- [🎧 Audio Routing](docs/diagrams/audio.md) (coming soon)
+
+
+
 # 🎛️ Synth Maze
 
 A structured guide to MIDI + Audio routing for a hybrid studio setup, featuring:
