@@ -42,7 +42,7 @@ A structured guide to MIDI + Audio routing for a hybrid studio setup, featuring:
 
 ## 🎯 Purpose
 Synth Maze is designed as a learning + documentation project:
-- **For beginners**: clear diagrams, MIDI channel assignments, and audio routing.
+- **For physical build**: clear diagrams, MIDI channel assignments, and audio routing.
 - **For DAW users**: integration guides for Ableton, Logic, and Bitwig.
 - **For DAWless jamming**: how to link synths together without a computer.
 
