@@ -21,7 +21,6 @@ A structured guide to MIDI + Audio routing for a hybrid studio setup, featuring:
 
 - Erica Synths Perkons
 - Behringer Poly D
-- Behringer Mono/Poly
 - Synthstrom Deluge
 - NI Komplete Kontrol S49 Mk3
 - Apollo Twin (Gen 2)
